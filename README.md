@@ -1,4 +1,4 @@
-# COE3001-H-25Fall - MECHANICS OF DEFORMABLE BODIEs
+# COE3001-H - Mechanics of Deformable Bodies
 
 ## Instructor: Yazhuo Liu @ Georgia Institute of Technology
 COE 3001 is an undergraduate course on the mechanics of deformable solids. The course develops students’ ability to analyze stress, strain, stress-strain relationships, deflections, and failure in materials under various loading conditions. This course is common in engineering programs, especially in civil, mechanical, aerospace, and materials engineering. The course will also introduce COMSOL Multiphysics to cultivate students' ability to solve more advanced engineering applications. Topics include axial deformation, torsion, bending, stress transformation, buckling, and energy methods. Both analytical and numerical approaches are emphasized, preparing students for advanced engineering courses.
