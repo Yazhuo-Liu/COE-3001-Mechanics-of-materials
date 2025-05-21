@@ -1,16 +1,14 @@
-# Mechanics of materials Course Resources
+# COE3001-H-25Fall - MECHANICS OF DEFORMABLE BODIEs
 
-## Author: Yazhuo Liu @ Georgia Institute of Technology
-
-A Mechanics of Materials course typically covers the fundamental principles and concepts related to the behavior of materials under various loading conditions. This course is common in engineering programs, especially in civil, mechanical, aerospace, and materials engineering. This course introduces students to the fundamental principles governing the behavior of materials under the influence of external forces. Emphasis is placed on understanding how different materials respond to loads and the analysis of structural elements subjected to various types of stress and deformation. The primary objective is to provide students with a solid foundation in the mechanics of materials, enabling them to analyze and design structures and components in engineering applications.
+## Instructor: Yazhuo Liu @ Georgia Institute of Technology
+COE 3001 is an undergraduate course on the mechanics of deformable solids. The course develops students’ ability to analyze stress, strain, stress-strain relationships, deflections, and failure in materials under various loading conditions. This course is common in engineering programs, especially in civil, mechanical, aerospace, and materials engineering. The course will also introduce COMSOL Multiphysics to cultivate students' ability to solve more advanced engineering applications. Topics include axial deformation, torsion, bending, stress transformation, buckling, and energy methods. Both analytical and numerical approaches are emphasized, preparing students for advanced engineering courses.
 
 ### Prerequisites
-Statics, Calculus
-### Corequisites
-Differential Equations
+MATH 2403 or MATH 2552 or MATH 2413 (Basic Calculus)
+COE 2001 or CEE 2020 or ME 2211 or AE 2120 (Statics)
 
 ### Textbook
-- Gere, James M., and Barry J. Goodno. Mechanics of materials. Cengage learning, 2012.
+-	Mechanics of Materials, by James M. Gere & Barry J. Goodno, 9th Ed, Cengage Learning.
 
 ### References
 * Ashby, Michael F., and David RH Jones. Engineering materials 1: an introduction to properties, applications and design. Vol. 1. Elsevier, 2012.
