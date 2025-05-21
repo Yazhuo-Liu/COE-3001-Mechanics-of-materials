@@ -2,9 +2,7 @@
 
 ## Instructor: Yazhuo Liu @ Georgia Institute of Technology
 
-COE 3001 is a foundational undergraduate course designed to equip students with a comprehensive understanding of the mechanics of deformable solids. The curriculum focuses on developing the analytical skills necessary to assess stress, strain, stress-strain relationships, material deflections, and potential failure mechanisms under diverse loading conditions. This course is a cornerstone for various engineering disciplines, particularly civil, mechanical, aerospace, and materials engineering.
-
-A unique aspect of this course is the integration of COMSOL Multiphysics, empowering students to tackle more advanced engineering applications through numerical simulation. Key topics include axial deformation, torsion, bending, stress transformation, buckling, and energy methods. The course emphasizes both analytical and numerical approaches, providing a robust foundation for subsequent advanced engineering studies.
+COE 3001 is an undergraduate course on the mechanics of deformable solids. The course develops students’ ability to analyze stress, strain, stress-strain relationships, deflections, and failure in materials under various loading conditions. This course is common in engineering programs, especially in civil, mechanical, aerospace, and materials engineering. The course will also introduce COMSOL Multiphysics to cultivate students' ability to solve more advanced engineering applications. Topics include axial deformation, torsion, bending, stress transformation, buckling, and energy methods. Both analytical and numerical approaches are emphasized, preparing students for advanced engineering courses.
 
 ### Prerequisites
 
